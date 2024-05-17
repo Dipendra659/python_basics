@@ -1,5 +1,5 @@
 []
-# list is immutable because we can perform operation append,insert etc.
+# list is mutable because we can perform operation append,insert etc.
 # a=[2,3,4,5,6,7,8]
 # a.append(2) # insert the elements from last index
 # a.insert(3,10)
