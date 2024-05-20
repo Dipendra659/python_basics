@@ -1,3 +1,4 @@
+from functions import first_function
 #set stores multiple item in single variables
 # set items are unordered, unchangable and does not allow duplicate values.
 #
@@ -53,3 +54,5 @@ city = {"npj", "ktm","dha"}
 y = frozenset(city)
 x = fruits.union(y)
 print(x)
+
+print(first_function())
