@@ -12,7 +12,6 @@
 
 def addition(num_1, num_2):  # num1 and num2 are parameters
     results = num_1 + num_2
-     return results
-
-a=addition(4, 5)
+    return results
+a=addition (4, 5 )
 print(a)

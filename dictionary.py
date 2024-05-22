@@ -42,10 +42,9 @@ my_family ={
    "child3": {
      "name": "Ravi",
      "year": 2009
-
 }
 }
 print(my_family["child3"]["name"])
 del my_family["child3"]["year"]
-my_family["child3"]["gender"]= "male"
+my_family["child3"]["gender"] = "male"
 print(my_family)
