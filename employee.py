@@ -1,4 +1,6 @@
-#casses in python
+# Classes in  python are used for creating objects that bundle.
+# data(attributes) and methods (functions)together.
+# They serve as blueprints for creating isinstances, which are individual objects with their own unique attributes and behavior.
 #self
 #the word self  is used to represent the instance of a class.
 #by using the "self" keyword used access the attributes and methods
